@@ -1,4 +1,4 @@
-# Prebuilt Icarus Verilog for Linux
+# Prebuilt Icarus Verilog Binaries for Linux
 
 [![Check_iverilog](https://img.shields.io/github/workflow/status/stnolting/icarus-verilog-prebuilt/Check%20Icarus%20Verilog%20Packages/main?longCache=true&style=flat&label=Check%20iverilog&logo=Github%20Actions&logoColor=fff)](https://github.com/stnolting/icarus-verilog-prebuilt/actions/workflows/check_iverilog.yml)
 [![license](https://img.shields.io/github/license/stnolting/icarus-verilog-prebuilt?longCache=true&style=flat)](https://github.com/stnolting/icarus-verilog-prebuilt/blob/main/LICENSE)
@@ -22,7 +22,7 @@ and the [Icarus Verilog homepage](http://iverilog.icarus.com/).
 |:-------------:|:----------------:|:-------:|:----------------:|
 | [v1.0.0](https://github.com/stnolting/icarus-verilog-prebuilt/releases/tag/v1.0.0) | [:floppy_disk: download](https://github.com/stnolting/icarus-verilog-prebuilt/releases/download/v1.0.0/iverilog-27082022.tar.gz) | 12.0 (devel) (s20150603-1558-gc7cdc6c23) | x64 Linux |
 
-[[back to top](#Prebuilt-Icarus-Verilog-for-Linux)]
+[[back to top](#Prebuilt-Icarus-Verilog-Binaries-for-Linux)]
 
 
 ## Download
@@ -46,7 +46,7 @@ Example:
 wget https://github.com/stnolting/icarus-verilog-prebuilt/releases/download/v1.0.0/iverilog-27082022.tar.gz
 ```
 
-[[back to top](#Prebuilt-Icarus-Verilog-for-Linux)]
+[[back to top](#Prebuilt-Icarus-Verilog-Binaries-for-Linux)]
 
 
 ## Installation
@@ -107,7 +107,7 @@ Usage: iverilog [-EiRSuvV] [-B base] [-c cmdfile|-f cmdfile]
 See the man page for details.
 ```
 
-[[back to top](#Prebuilt-Icarus-Verilog-for-Linux)]
+[[back to top](#Prebuilt-Icarus-Verilog-Binaries-for-Linux)]
 
 
 ## License
@@ -126,4 +126,4 @@ when the links were placed, no infringements of the law were recognizable to us.
 as an infringement of the law becomes known to us, we will immediately remove the
 link in question.
 
-[[back to top](#Prebuilt-Icarus-Verilog-for-Linux)]
+[[back to top](#Prebuilt-Icarus-Verilog-Binaries-for-Linux)]
