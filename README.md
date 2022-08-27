@@ -2,7 +2,6 @@
 
 [![Check_iverilog](https://img.shields.io/github/workflow/status/stnolting/icarus-verilog-prebuilt/Check%20Icarus%20Verilog%20Packages/main?longCache=true&style=flat&label=Check%20iverilog&logo=Github%20Actions&logoColor=fff)](https://github.com/stnolting/icarus-verilog-prebuilt/actions/workflows/check_iverilog.yml)
 [![license](https://img.shields.io/github/license/stnolting/icarus-verilog-prebuilt?longCache=true&style=flat)](https://github.com/stnolting/icarus-verilog-prebuilt/blob/main/LICENSE)
-[![Gitter](https://img.shields.io/badge/Chat-on%20gitter-4db797.svg?longCache=true&style=flat&logo=gitter&logoColor=e8ecef)](https://gitter.im/neorv32/community)
 
 * [Available Packages](#Available-Packages)
 * [Download](#Download)
@@ -37,11 +36,12 @@ and the [Icarus Verilog homepage](http://iverilog.icarus.com/).
 Click on the according **:floppy_disk: download** link in the table above to manually download the archive of choice
 from the according [release page](https://github.com/stnoting/icarus-verilog-prebuilt/releases) (via the release _assets_).
 
-### Via Command Linel
+### Via Command Line
 
 You can use `wget` to directly download an archive from the table above. Select the toolchain of
-choice, right-click on the **:floppy_disk: download** link, click "copy link address" and use that as argument for `wget`. Example:
+choice, right-click on the **:floppy_disk: download** link, click "copy link address" and use that as argument for `wget`.
 
+Example:
 ```bash
 wget https://github.com/stnolting/icarus-verilog-prebuilt/releases/download/v1.0.0/iverilog-27082022.tar.gz
 ```
