@@ -1,0 +1,19 @@
+name: 'Check Icarus Verilog Packages'
+ 
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+
+  build:
+    runs-on: ubuntu-latest
+    name: 'Check iverilog'
+
+    steps:
+
+      - name: '💾 Checkout'
+        uses: actions/checkout@v2
+
+      - name: '▶️ Check iverilog'
+        run: /bin/bash -c "chmod u+x $GITHUB_WORKSPACE/.github/check.sh && $GITHUB_WORKSPACE/.github/check.sh"
