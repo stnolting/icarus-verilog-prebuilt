@@ -21,7 +21,7 @@ and the [Icarus Verilog homepage](http://iverilog.icarus.com/).
 
 | Release (tag) | Download archive | Version | Operating System |
 |:-------------:|:----------------:|:-------:|:----------------:|
-| TODO | [:floppy_disk: download]() | 12.0 (devel) (s20150603-1558-gc7cdc6c23) | x64 Linux |
+| [v1.0.0](https://github.com/stnolting/icarus-verilog-prebuilt/releases/tag/v1.0.0) | [:floppy_disk: download](https://github.com/stnolting/icarus-verilog-prebuilt/releases/download/v1.0.0/iverilog-27082022.tar.gz) | 12.0 (devel) (s20150603-1558-gc7cdc6c23) | x64 Linux |
 
 [[back to top](#Prebuilt-Icarus-Verilog-for-Linux)]
 

@@ -4,7 +4,7 @@ set -e
 
 echo ""
 
-RELEASE=initial_test
+RELEASE=v1.0.0
 ARCHIVE=iverilog-27082022
 echo "Checking release $RELEASE, archive $ARCHIVE..."
 wget https://github.com/stnolting/icarus-verilog-prebuilt/releases/download/$RELEASE/$ARCHIVE.tar.gz
