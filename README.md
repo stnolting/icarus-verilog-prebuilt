@@ -54,28 +54,28 @@ wget https://github.com/stnolting/icarus-verilog-prebuilt/releases/download/v1.0
 Create a folder where you want to install the Icarus Verilog, for example `/opt/iverilog` (you might need
 `sudo` to create this folder and copy data to it).
 
-```bash
+```
 $ sudo mkdir /opt/iverilog
 ```
 
 Navigate to your download folder. Decompress the downloaded archive (replace `ARCHIVE` by the actual archive name).
 Again, you might have to use `sudo` if your target directory is protected.
 
-```bash
+```
 $ sudo tar -xzf ARCHIVE.tar.gz -C /opt/iverilog/
 ```
 
 Now add the simulator's `bin` folder to your system's `PATH` environment variable.
 Your can also add this line to your `.bashrc` if applicable.
 
-```bash
+```
 $ export PATH=$PATH:/opt/iverilog/bin
 ```
 
 Test the simulator:
 
-```bash
-$ $ iverilog -v
+```
+$ iverilog -v
 Icarus Verilog version 12.0 (devel) (s20150603-1558-gc7cdc6c23)
 
 Copyright (c) 2000-2021 Stephen Williams (steve@icarus.com)
