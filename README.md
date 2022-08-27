@@ -1,2 +1,3 @@
-# icarus-verilog-prebuilt
+# Prebuilt Icarus Verilog for Linux
+
 TBA
