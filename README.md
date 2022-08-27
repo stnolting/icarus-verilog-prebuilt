@@ -1,6 +1,6 @@
 # Prebuilt Icarus Verilog for Linux
 
-[![Test_Toolchains](https://img.shields.io/github/workflow/status/stnolting/icarus-verilog-prebuilt/Test%20Toolchains/main?longCache=true&style=flat-square&label=Check%20iverilog&logo=Github%20Actions&logoColor=fff)](https://github.com/stnolting/icarus-verilog-prebuilt/actions/workflows/check_iverilog.yml)
+[![Check_iverilog](https://img.shields.io/github/workflow/status/stnolting/icarus-verilog-prebuilt/Check%20Icarus%20Verilog%20Packages/main?longCache=true&style=flat-square&label=Check%20iverilog&logo=Github%20Actions&logoColor=fff)](https://github.com/stnolting/icarus-verilog-prebuilt/actions/workflows/check_iverilog.yml)
 [![license](https://img.shields.io/github/license/stnolting/icarus-verilog-prebuilt?longCache=true&style=flat-square)](https://github.com/stnolting/icarus-verilog-prebuilt/blob/main/LICENSE)
 [![Gitter](https://img.shields.io/badge/Chat-on%20gitter-4db797.svg?longCache=true&style=flat-square&logo=gitter&logoColor=e8ecef)](https://gitter.im/neorv32/community)
 
@@ -43,7 +43,7 @@ You can use `wget` to directly download an archive from the table above. Select 
 choice, right-click on the **:floppy_disk: download** link, click "copy link address" and use that as argument for `wget`. Example:
 
 ```bash
-wget TODO
+wget https://github.com/stnolting/icarus-verilog-prebuilt/releases/download/v1.0.0/iverilog-27082022.tar.gz
 ```
 
 [[back to top](#Prebuilt-Icarus-Verilog-for-Linux)]
