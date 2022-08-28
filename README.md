@@ -1,6 +1,6 @@
 # Prebuilt Icarus Verilog Binaries for Linux
 
-[![Check_iverilog](https://img.shields.io/github/workflow/status/stnolting/icarus-verilog-prebuilt/Check%20Icarus%20Verilog%20Packages/main?longCache=true&style=flat&label=Check%20iverilog&logo=Github%20Actions&logoColor=fff)](https://github.com/stnolting/icarus-verilog-prebuilt/actions/workflows/check_iverilog.yml)
+[![Check_iverilog](https://img.shields.io/github/workflow/status/stnolting/icarus-verilog-prebuilt/Check%20Icarus%20Verilog%20Packages/main?longCache=true&style=flat&label=Check%20iverilog%20packages&logo=Github%20Actions&logoColor=fff)](https://github.com/stnolting/icarus-verilog-prebuilt/actions/workflows/check_iverilog.yml)
 [![license](https://img.shields.io/github/license/stnolting/icarus-verilog-prebuilt?longCache=true&style=flat)](https://github.com/stnolting/icarus-verilog-prebuilt/blob/main/LICENSE)
 
 * [Available Packages](#Available-Packages)
