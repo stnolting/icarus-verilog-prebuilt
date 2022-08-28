@@ -15,6 +15,8 @@ using **Ubuntu** on a **64-bit x86 machine** (actually on Ubuntu on Windows / WS
 More information can be found on the official [Icarus Verilog GitHub repository](https://github.com/steveicarus/iverilog)
 and the [Icarus Verilog homepage](http://iverilog.icarus.com/).
 
+:bulb: These prebuilt binaries are used by the [NEORV32 RISC-V Processor](https://github.com/stnolting/neorv32-verilog) project.
+
 
 ## Available Packages
 
