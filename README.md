@@ -3,9 +3,9 @@
 [![Check_iverilog](https://img.shields.io/github/actions/workflow/status/stnolting/icarus-verilog-prebuilt/check_iverilog.yml?branch=main&longCache=true&style=flat&label=Check%20iverilog%20packages&logo=Github%20Actions&logoColor=fff)](https://github.com/stnolting/icarus-verilog-prebuilt/actions/workflows/check_iverilog.yml)
 [![license](https://img.shields.io/github/license/stnolting/icarus-verilog-prebuilt?longCache=true&style=flat)](https://github.com/stnolting/icarus-verilog-prebuilt/blob/main/LICENSE)
 
-* [Available Packages](#Available-Packages)
-* [Download](#Download)
-* [Installation](#Installation)
+* [Available Packages](#available-packages)
+* [Download](#download)
+* [Installation](#installation)
 
 This repository provides prebuilt binaries for the **_Icarus Verilog_** simulator by Stephen Williams.
 The binaries were built according to the instructions of the
@@ -24,7 +24,7 @@ and the [Icarus Verilog homepage](http://iverilog.icarus.com/).
 |:-------------:|:----------------:|:-------:|:----------------:|
 | [v1.0.0](https://github.com/stnolting/icarus-verilog-prebuilt/releases/tag/v1.0.0) | [:floppy_disk: download](https://github.com/stnolting/icarus-verilog-prebuilt/releases/download/v1.0.0/iverilog-27082022.tar.gz) | 12.0 (devel) (s20150603-1558-gc7cdc6c23) | x64 Linux |
 
-[[back to top](#Prebuilt-Icarus-Verilog-Binaries-for-Linux)]
+[[back to top](#prebuilt-icarus-verilog-binaries-for-linux)]
 
 
 ## Download
@@ -48,7 +48,7 @@ Example:
 wget https://github.com/stnolting/icarus-verilog-prebuilt/releases/download/v1.0.0/iverilog-27082022.tar.gz
 ```
 
-[[back to top](#Prebuilt-Icarus-Verilog-Binaries-for-Linux)]
+[[back to top](#prebuilt-icarus-verilog-binaries-for-linux)]
 
 
 ## Installation
@@ -109,7 +109,7 @@ Usage: iverilog [-EiRSuvV] [-B base] [-c cmdfile|-f cmdfile]
 See the man page for details.
 ```
 
-[[back to top](#Prebuilt-Icarus-Verilog-Binaries-for-Linux)]
+[[back to top](#prebuilt-icarus-verilog-binaries-for-linux)]
 
 
 ## License
@@ -128,4 +128,4 @@ when the links were placed, no infringements of the law were recognizable to us.
 as an infringement of the law becomes known to us, we will immediately remove the
 link in question.
 
-[[back to top](#Prebuilt-Icarus-Verilog-Binaries-for-Linux)]
+[[back to top](#prebuilt-icarus-verilog-binaries-for-linux)]
